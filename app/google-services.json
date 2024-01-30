@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "884237018416",
+    "project_id": "timetoken-36648",
+    "storage_bucket": "timetoken-36648.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884237018416:android:403c0a1d889fc25cbf94f5",
+        "android_client_info": {
+          "package_name": "com.example.merchant_timetoken"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg-06X5RQ5vfeuH1O9UVIu7FxvPUfnvVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
